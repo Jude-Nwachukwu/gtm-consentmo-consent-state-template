@@ -2,5 +2,5 @@
 homepage: https://dumbdata.co/
 documentation: https://github.com/Jude-Nwachukwu/gtm-consentmo-consent-state-template
 versions:
-  - sha: XXX
+  - sha: bead0ab201c4abe3ffc4f1734518510d5941c22d
     changeNotes: Initial release.
