@@ -1,4 +1,4 @@
-# ConsentMo CMP Consent State – GTM Variable Template
+# ConsentMo CMP Consent State – GTM Variable Template (Unofficial)
 
 A [Google Tag Manager](https://tagmanager.google.com/) variable template to evaluate the user's consent state from **ConsentMo CMP** cookies.
 
